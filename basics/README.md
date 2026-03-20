@@ -1,1 +1,1 @@
-This folder contains basic shell scripts
+Basics task description
