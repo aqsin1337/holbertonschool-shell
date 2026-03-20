@@ -1,1 +1,1 @@
-My first shell project
+This folder contains basic shell scripts
