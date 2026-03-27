@@ -4,3 +4,4 @@ Shell init files, variables, and expansions tasks
 3-paths: Counts the number of directories in the PATH
 4-global_variables: Lists all environment variables
 4-global_variables: Lists all environment variables
+5-local_variables: Lists all local variables, environment variables, and functions
