@@ -9,3 +9,4 @@ Shell init files, variables, and expansions tasks
 7-create_global_variable: Creates a global variable named BEST with the value School
 8-true_knowledge: Prints the result of TRUEKNOWLEDGE + 128
 9-divide_and_rule: Prints the result of POWER divided by DIVIDE
+10-love_exponent_breath: Prints BREATH to the power of LOVE
